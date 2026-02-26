@@ -1,2 +1,2 @@
 print("Hi world")
-print("red")
+print("other words")
